@@ -1,0 +1,9 @@
+﻿using System;
+
+namespace Epic.OnlineServices.Lobby
+{
+	// Token: 0x020003C1 RID: 961
+	public struct LobbyDetailsGetAttributeCountOptions
+	{
+	}
+}
