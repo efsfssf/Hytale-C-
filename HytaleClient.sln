@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HytaleClient", "HytaleClient\HytaleClient.csproj", "{F484B69F-FFC8-4FF2-A98E-74959B9DFD44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HytaleProtocol", "HytaleProtocol\HytaleProtocol.csproj", "{1A9D339C-2AF2-41EA-980D-93006088EEF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,18 @@ Global
 		{F484B69F-FFC8-4FF2-A98E-74959B9DFD44}.Release|Mixed Platforms.Build.0 = Release|x64
 		{F484B69F-FFC8-4FF2-A98E-74959B9DFD44}.Release|x64.ActiveCfg = Release|x64
 		{F484B69F-FFC8-4FF2-A98E-74959B9DFD44}.Release|x64.Build.0 = Release|x64
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Debug|x64.Build.0 = Debug|Any CPU
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Release|x64.ActiveCfg = Release|Any CPU
+		{1A9D339C-2AF2-41EA-980D-93006088EEF6}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

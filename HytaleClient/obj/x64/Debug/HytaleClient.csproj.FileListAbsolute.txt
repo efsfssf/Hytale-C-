@@ -1,3 +1,5 @@
 C:\Projects\HytaleClient\HytaleClient\obj\x64\Debug\HytaleClient.csproj.AssemblyReference.cache
 C:\Projects\HytaleClient\HytaleClient\obj\x64\Debug\HytaleClient.exe.config
 C:\Projects\HytaleClient\HytaleClient\obj\x64\Debug\HytaleClient.csproj.CoreCompileInputs.cache
+C:\Projects\Hytale-C-\HytaleClient\obj\x64\Debug\HytaleClient.csproj.AssemblyReference.cache
+C:\Projects\Hytale-C-\HytaleClient\obj\x64\Debug\HytaleClient.csproj.CoreCompileInputs.cache

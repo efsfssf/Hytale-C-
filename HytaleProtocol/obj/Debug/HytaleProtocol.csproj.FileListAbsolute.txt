@@ -1,0 +1,6 @@
+C:\Projects\Hytale-C-\HytaleProtocol\bin\Debug\HytaleProtocol.dll
+C:\Projects\Hytale-C-\HytaleProtocol\bin\Debug\HytaleProtocol.pdb
+C:\Projects\Hytale-C-\HytaleProtocol\obj\Debug\HytaleProtocol.csproj.AssemblyReference.cache
+C:\Projects\Hytale-C-\HytaleProtocol\obj\Debug\HytaleProtocol.csproj.CoreCompileInputs.cache
+C:\Projects\Hytale-C-\HytaleProtocol\obj\Debug\HytaleProtocol.dll
+C:\Projects\Hytale-C-\HytaleProtocol\obj\Debug\HytaleProtocol.pdb
